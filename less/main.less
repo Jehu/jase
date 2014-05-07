@@ -1,0 +1,49 @@
+/////////////////////////////////////////////////////
+// This is the place to insert your own Sass Rules
+/////////////////////////////////////////////////////
+
+#page-wrapper {
+  &:extend(.container);
+}
+
+.main-wrapper, .row {
+  .make-row();
+  .clearfix();
+}
+
+header {
+  .clearfix();
+}
+
+// Framework
+// ---------
+
+body.one-sidebar {
+  .main-wrapper {
+    main {
+      .make-sm-column(9);
+    }
+    .sidebar-first, .sidebar-second {
+      .make-sm-column(3);
+    }
+  }
+}
+
+body.two-sidebars {
+  .main-wrapper {
+    main {
+      .make-sm-column(6);
+    }
+    .sidebar-first, .sidebar-second {
+      .make-sm-column(3);
+    }
+  }
+}
+
+body.no-sidebars {
+  .main-wrapper {
+    main {
+      .make-sm-column(12);
+    }
+  }
+}

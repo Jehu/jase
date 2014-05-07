@@ -1,0 +1,36 @@
+.input_element {
+  padding: @padding-default;
+  border: @border-default;
+}
+
+// Button basics
+// -------------
+button,
+input[type=submit] {
+  padding: @padding-wider;
+  border: 0 none;
+  background-color: #8A42AD;
+  color: #ffffff;
+  border-radius: 5px;
+  font-weight: normal;
+}
+
+// Input types
+// -----------
+input[type=text],
+input[type=email],
+input[type=password],
+textarea {
+  .input_element;
+  width: 100%;
+}
+
+// Panels
+// ------
+fieldset {
+  .input_element;
+  padding: @padding-wider;
+  legend {
+    padding: 0 @padding-default;
+  }
+}
