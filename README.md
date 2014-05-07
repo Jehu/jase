@@ -5,7 +5,7 @@
 The "J" of Jase comes from my nick name "Jehu".
 The rest of the name comes from "Base" but whithout the "B". :)
 
-Jase (pronounced "Chase"), is the result of the Chase for the perfect base theme to create clean markup in Drupal whithout too much stuff i did not want.
+Jase (pronounced "Chase"), is the result of the Chase for the perfect base theme to create clean markup in Drupal without too much stuff i did not want.
 
 ## Motivation
 There are great base themes out there.
