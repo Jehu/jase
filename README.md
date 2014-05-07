@@ -8,7 +8,7 @@ The rest of the name comes from "Base" but whithout the "B". :)
 Jase (pronounced "Chase"), is the result of the Chase for the perfect base theme to create clean markup in Drupal whithout too much stuff i did not want.
 
 ## Motivation
-There are great Base themes out there.
+There are great base themes out there.
 
 * [Omega][]
 * [Aurora][]
@@ -26,7 +26,7 @@ So i've startet this base theme. The Jase base theme makes the most sense in com
 * [fences][] (optional)
 * [block_class][] (optional)
 * [magic][] (optional)
-* [Display Suite][] (otional)
+* [Display Suite][] (optional)
     * [Display Suite Bootstrap Layouts][] (optional)
 
 ## Bootstrap - Just the Grid
