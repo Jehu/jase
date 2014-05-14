@@ -30,7 +30,7 @@ So i've startet this base theme. The Jase base theme makes the most sense in com
     * [Display Suite Bootstrap Layouts][] (optional)
 
 ## Bootstrap - Just the Grid
-[Bootstrap3][] is a great Responsive Framework. The bootstrap grid is one of the best out there. So i've decided to use the grid only and let the Themer alone with all other stylings. So he/her is free to use additional CSS frameworks for the user interface.
+[Bootstrap3][] is a great Responsive Framework. The bootstrap grid is one of the best out there. So i've decided to use the grid only and let the Themer alone with all other stylings. So he/her is free to use additional CSS frameworks for the user interface - or even use full Bootstrap3.
 
 ## LESS
 Until the less implementation is the first class citizen in Twitter Bootstrap, we use LESS for CSS Preprocessing.
